@@ -1,0 +1,24 @@
+{
+  "name": "Auto Login Canvas",
+  "short_name": "AutoLogin",
+  "description": "Sistem login otomatis tanpa password berbasis HTML5 Canvas interaktif dan CSS3 glassmorphism.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#05070c",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "/src/assets/images/pwa_logo_1781498061292.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/src/assets/images/pwa_logo_1781498061292.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
